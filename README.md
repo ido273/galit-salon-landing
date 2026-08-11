@@ -64,3 +64,4 @@ Tools: large/black cursor, keyboard-navigation focus boost, stop flashing, stop 
 
 - Gallery uses a CSS-columns masonry layout so mixed portrait/landscape photos sit naturally without cropping.
 - Section backgrounds alternate cream / rose / cream-alt top to bottom so no two adjacent sections share a shade.
+
