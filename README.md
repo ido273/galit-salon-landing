@@ -49,13 +49,6 @@ The repo is connected to Cloudflare Pages with these build settings:
 
 Every push to `main` auto-deploys. To connect a custom domain: Cloudflare Pages project → **Custom domains** → **Set up a custom domain**.
 
-## Content that's live
-
-- **Airtable form**: embedded in the contact section of `index.html`.
-- **WhatsApp button**: `972509453353`.
-- **Instagram**: `https://www.instagram.com/hasalon_galit`
-- **Facebook**: `https://www.facebook.com/profile.php?id=61583377915797`
-- **Privacy contact**: רותם — `050-9453353` / `rotemelmalem@gmail.com` (`privacy.html`).
 
 ## Content still needed
 
